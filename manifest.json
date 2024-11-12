@@ -2,8 +2,14 @@
 	"name":"Snipers_Items",
 	"version_number": "0.1.0",
 	"website_url":"https://github.com/Sniper1-1/Snipers_Items.git",
-	"description":"Text.",
+	"description":"A pack containing several vanilla-like items.",
 	"dependencies":[
-		"IAmBatby-LethalLevelLoader-1.3.10"
+		"Sniper1_1-Action_Figure_Scrap-0.1.0",
+		"Sniper1_1-Big_Box_Scrap-0.1.0",
+		"Sniper1_1-Keyboard_Scrap-0.1.0",
+		"Sniper1_1-Pillow_Scrap-0.1.0",
+		"Sniper1_1-Pipe_Scrap-0.1.0",
+		"Sniper1_1-Teliot_Scrap-0.1.0",
+		"Sniper1_1-Valuable_Book_Scrap-0.1.0"
 	]
 }

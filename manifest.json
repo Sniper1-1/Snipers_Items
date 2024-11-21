@@ -1,6 +1,6 @@
 {
 	"name":"Snipers_Items",
-	"version_number": "0.1.0",
+	"version_number": "0.2.0",
 	"website_url":"https://github.com/Sniper1-1/Snipers_Items.git",
 	"description":"A pack containing several vanilla-like items.",
 	"dependencies":[
@@ -10,6 +10,7 @@
 		"Sniper1_1-Pillow_Scrap-0.1.0",
 		"Sniper1_1-Pipe_Scrap-0.1.0",
 		"Sniper1_1-Teliot_Scrap-0.1.0",
-		"Sniper1_1-Valuable_Book_Scrap-0.1.0"
+		"Sniper1_1-Valuable_Book_Scrap-0.1.0",
+		"Sniper1_1-Log_Scrap-0.1.1"
 	]
 }

@@ -78,6 +78,16 @@ Adds a few mainly vanilla-like items to Lethal Company. ([Discord link](https://
 
 </details>
 
+<details>
+<summary>Log details</summary>
+
+> Weight: 16 <br>
+> Max value: 56 <br>
+> Min value: 34 <br>
+![Log](https://imgur.com/HCU9z3S.png)
+
+</details>
+
 </details>
 
 

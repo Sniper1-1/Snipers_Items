@@ -88,6 +88,15 @@ Adds a few mainly vanilla-like items to Lethal Company. ([Discord link](https://
 
 </details>
 
+<details>
+<summary>Floodlight details</summary>
+
+> Weight: 84 <br>
+> Cost: 80 <br>
+
+![Image](https://imgur.com/SXRPZID.png)
+</details>
+
 </details>
 
 
